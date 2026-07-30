@@ -36,7 +36,7 @@ public class ThisDemo1 {
 		person.getName();
 		person.getAge();
 		person.displayDetails();
-		person.setName("Mini");
+		person.setName("Mini=");
 		person.setAge(24);
 		person.getName();
 		person.getAge();
