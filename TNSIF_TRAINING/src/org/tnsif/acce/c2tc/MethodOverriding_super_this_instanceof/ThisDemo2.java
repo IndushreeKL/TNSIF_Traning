@@ -1,4 +1,4 @@
-package org.tnsif.acce.c2tc.MethodOverriding;
+package org.tnsif.acce.c2tc.MethodOverriding_super_this_instanceof;
  
 class ProductBottle
 {
