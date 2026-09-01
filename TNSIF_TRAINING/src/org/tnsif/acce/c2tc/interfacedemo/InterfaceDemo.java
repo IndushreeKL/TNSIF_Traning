@@ -1,4 +1,4 @@
-package org.tnsif.acce.tnsif.interfacedemo;
+package org.tnsif.acce.c2tc.interfacedemo;
 class SmartLight implements SmartDevice
 {
 
