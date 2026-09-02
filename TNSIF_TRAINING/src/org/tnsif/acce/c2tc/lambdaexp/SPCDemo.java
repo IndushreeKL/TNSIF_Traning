@@ -1,4 +1,4 @@
-package org.tnsif.acce.c2ts.lambdaexp;
+package org.tnsif.acce.c2tc.lambdaexp;
 
 import java.util.function.Consumer;
 import java.util.function.Predicate;
